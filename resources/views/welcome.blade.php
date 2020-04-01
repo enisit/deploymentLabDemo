@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel wen application
+                    Laravel web application deplyed with Heroku and TravisCI
                 </div>
 
                 <div class="links">
